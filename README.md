@@ -1,6 +1,5 @@
-# new_repo
-learning to collaborate with git
+## Collaboration Repo
 
-At this point, I invited Gbemi and Kenny to be collaborators. Expecting their affirmation.
+We're learning to collaborate with GitHub.
 
-I have been asked to edit this document for the purpose of training
+Hasan invited Gbemi, Kenny, Salvation, Favour, Eva & Prenam to be collaborators. They accepted and wrote short stories about themselves
